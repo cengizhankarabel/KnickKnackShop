@@ -1,0 +1,18 @@
+<div class="list-group-item" *ngIf="product.is_available">
+    <div class="row">
+        <div class="col-4">
+            <img class="img-fluid" alt="" [src]="product.image_path" />
+        </div>
+        <div class="col-8">
+
+            <pre>{{product|json}}</pre>
+
+            <div>{{product.name|uppercase}}</div>
+            <div>{{product.price | currency:'USD':'symbol'}}</div>
+            <div>{{product.description}}</div>
+            <button (click)="handleBuy($event)" class="btn btn-dark">Add to Cart</button>
+            
+
+        </div>
+    </div>
+</div>
