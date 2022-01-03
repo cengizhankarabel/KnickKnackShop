@@ -29,13 +29,16 @@ Welcome to The best gifts store Knick Knack Shop
 
 
 ## **Technologies Used ?**
-    Front-end
+
+    **Font-end**
+    
 * Angular 13
 * Bootstrap 5.1
 * TypeScript
 * JJWT 0.9.1
 * 
-    Back-end
+    **Back-end**
+    
 * Maven
 * Spring Boot 2.6.1
 * Bcrypt 0.9.0
