@@ -27,6 +27,33 @@ Welcome to The best gifts store Knick Knack Shop
 
 ---
 
+## **Technologies Used ?**
+
+**Font-end**
+    
+* Angular 13
+* Bootstrap 5.1
+* TypeScript
+* JJWT 0.9.1
+ 
+**Back-end**
+    
+* Maven
+* Spring Boot 2.6.1
+* Bcrypt 0.9.0
+* Lombok 1.18.22
+* Jackson Databind 2.12.4
+---
+
+## **Features**
+
+Single Page Application
+Robust Front-end UI logic for schedule event to be added
+An employee is able to see the entire schedule.
+
+---
+
+
 ## ⚡ **Installation**
 
 1. set up the tables using the SQL file provided, MySQL will be automatically launched. 
