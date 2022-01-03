@@ -44,12 +44,15 @@ Welcome to The best gifts store Knick Knack Shop
 * Bcrypt 0.9.0
 * Lombok 1.18.22
 * Jackson Databind 2.12.4
+---
 
 ## **Features**
 
 Single Page Application
 Robust Front-end UI logic for schedule event to be added
 An employee is able to see the entire schedule.
+
+---
 
 ## ⚡ **Installation**
 
