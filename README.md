@@ -27,6 +27,21 @@ Welcome to The best gifts store Knick Knack Shop
 
 ---
 
+
+## **Technologies Used ?**
+    Front-end
+* Angular 13
+* Bootstrap 5.1
+* TypeScript
+* JJWT 0.9.1
+* 
+    Back-end
+* Maven
+* Spring Boot 2.6.1
+* Bcrypt 0.9.0
+* Lombok 1.18.22
+* Jackson Databind 2.12.4
+
 ## ⚡ **Installation**
 
 1. set up the tables using the SQL file provided, MySQL will be automatically launched. 
